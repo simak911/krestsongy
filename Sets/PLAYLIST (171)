@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set name="2025_08_10">
+  <slide_groups>
+  <slide_group name="Modlitba sv. Tomáše Mora" type="song" presentation="" path="Nami_pridane/"/>
+  <slide_group name="Tys můj skalní štít a pevná tvrz" type="song" presentation="" path=""/>
+  <slide_group name="Jako dým kadidla stoupá" type="song" presentation="" path="Nami_pridane/"/>
+  <slide_group name="69 V milosti kraluje Hospodin" type="song" presentation="" path="Kancionály CB/"/>
+  <slide_group name="Králi můj, Tebe hledám" type="song" presentation="" path="České Chvály/"/>
+  <slide_group name="Zůstaň s námi, Pane, když se stmívá" type="song" presentation="" path="Nami_pridane/"/>
+  <slide_group type="scripture" name="Jan 1:1-5|CZ_Cep" print="true">
+  <title>Jan 1:1-5</title>
+  <slides>
+  <slide>
+  <body>1 Na počátku bylo Slovo, to Slovo bylo u Boha, to Slovo byl Bůh.
+2 To bylo na počátku u Boha.</body></slide>
+  <slide>
+  <body>3 Všechno povstalo skrze ně a bez něho nepovstalo nic, co jest.
+4 V něm byl život a život byl světlo lidí.</body></slide>
+  <slide>
+  <body>5 To světlo ve tmě svítí a tma je nepohltila.</body></slide></slides>
+  <subtitle>CZ_Cep</subtitle>
+  <notes/>
+</slide_group>
+  <slide_group type="scripture" name="Jakubův 3:2-10|CZ_Cep" print="true">
+  <title>Jakubův 3:2-10</title>
+  <slides>
+  <slide>
+  <body>2 Všichni přece mnoho chybujeme. Kdo nechybuje slovem, je dokonalý muž a dovede držet na uzdě celé své tělo.
+3 Dáváme-li koňům do huby udidlo, aby nás poslouchali, můžeme tak řídit celé jejich tělo.</body></slide>
+  <slide>
+  <body>4 Nebo si představte lodi: Jsou tak veliké a jsou hnány prudkými větry, ale malé kormidlo je řídí, kamkoli kormidelník chce.
+5 Tak i jazyk je malý úd, ale může se chlubit velkými věcmi. Považte, jak malý oheň může zapálit veliký les!</body></slide>
+  <slide>
+  <body>6 I jazyk je oheň. Je to svět zla mezi našimi údy, poskvrňuje celé tělo a ničí celý náš život, sám podpalován pekelným plamenem.
+7 Všechny druhy zvířat i ptáků, plazů i mořských živočichů mohou být a jsou kroceny člověkem,</body></slide>
+  <slide>
+  <body>8 ale jazyk neumí zkrotit nikdo z lidí. Je to zlo, které si nedá pokoj, plné smrtonosného jedu.
+9 Jím chválíme Pána a Otce, jím však také proklínáme lidi, kteří byli stvořeni k Boží podobě.</body></slide>
+  <slide>
+  <body>10 Z týchž úst vychází žehnání i proklínání. Tak tomu být nemá, bratří moji.</body></slide></slides>
+  <subtitle>CZ_Cep</subtitle>
+  <notes/>
+</slide_group>
+  <slide_group name="Z tvé ruky, Pane můj" type="song" presentation="" path="Nami_pridane/"/>
+  <slide_group name="JSEM" type="song" presentation="" path="Nami_pridane/"/>
+</slide_groups></set>

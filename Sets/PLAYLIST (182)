@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set name="2025_11_16">
+  <slide_groups>
+  <slide_group name="Zaradoval jsem se" type="song" presentation="" path="Nami_pridane/"/>
+  <slide_group name="Ať srdce mé Tebe vídá" type="song" presentation="" path="Nami_pridane/"/>
+  <slide_group name="Vodo života" type="song" presentation="" path="Nami_pridane/"/>
+  <slide_group name="S každým trápením -TJD79" type="song" presentation="" path="Nami_pridane/"/>
+  <slide_group name="Při mně stůj" type="song" presentation="" path="České Chvály/"/>
+  <slide_group name="Nepojmenovaný" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title></title>
+  <subtitle></subtitle>
+  <notes></notes>
+  <slides>
+  <slide>
+  <body></body></slide></slides></slide_group>
+  <slide_group name="Hoden je Beránek" type="song" presentation="" path="České Chvály/"/>
+  <slide_group name="Doufej v Hospodina" type="song" presentation="" path="Nami_pridane/"/>
+</slide_groups></set>

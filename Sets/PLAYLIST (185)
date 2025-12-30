@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set name="2025_12_07">
+  <slide_groups>
+  <slide_group name="Advent - druhý" type="song" presentation="" path="Nami_pridane/"/>
+  <slide_group name="Tvůrce cest (Jsi cesta)" type="song" presentation="" path="Nami_pridane/"/>
+  <slide_group name="Přichází náš Pán" type="song" presentation="" path="Nami_pridane/"/>
+  <slide_group name="Benedictus, qui venit in nomine Domini" type="song" presentation="" path="Nami_pridane/" transition="0"/>
+  <slide_group name="Před Tebou, temno ztrácí" type="song" presentation="" path="České Chvály/"/>
+  <slide_group name="Lid, který chodí v temnotách" type="song" presentation="" path="České Chvály/"/>
+  <slide_group name="Zpívej, brzy už přijde Pán" type="song" presentation="" path="Nami_pridane/"/>
+</slide_groups></set>
